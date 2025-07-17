@@ -37,6 +37,7 @@ git clone https://github.com/your-username/band-generator.git
 cd band-generator
 npm install
 node index.js
+```
 
 Then open http://localhost:3000 in your browser.
 
